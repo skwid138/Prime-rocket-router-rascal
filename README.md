@@ -9,4 +9,4 @@ Rocket, The Router Rascal, has struck the spaceship factory. Per his calling car
 4. The current site is broken and has 6 errors that can be fixed by editing 6 lines of code. If you find yourself doing a major rewrite, you've probably gone too far.
 4. When the site is back up and running, it should look like it did before. You should be able to add a new spaceship part to the list when everything is done.
 
-![alt text](public/images/before.png)
+![alt text](server/public/images/before.png)
