@@ -15,7 +15,7 @@ app.get('/hello', parts); // Oh, hi there! Wait, who's parts are these?
 
 app.use('/parts', parts);
 
-app.use(express.static('public'));
+app.use(express.static('server/public'));
 
 app.listen(port);
 console.log("Listening on port: ", port);
