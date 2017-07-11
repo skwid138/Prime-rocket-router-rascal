@@ -1,5 +1,5 @@
 ### Express Challenge
-Rocket, The Router Rascal, has struck the spaceship factory. Per his calling card, he has only done damage to the spaceship factory's `app.js` file and files in the `routes` folder (all can be found in the `lib/server/` folder), so only make changes to those files. He couldn't help himself, and has left some punny hints behind.
+Rocket, The Router Rascal, has struck the spaceship factory. Per his calling card, he has only done damage to the spaceship factory's `app.js` file and files in the `routes` folder (all can be found in the `server` folder), so only make changes to those files. He couldn't help himself, and has left some punny hints behind.
 
 ## Getting Started
 

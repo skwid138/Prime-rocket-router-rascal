@@ -13,8 +13,8 @@
     "sinon": "^1.17.6"
   },
   "scripts": {
-    "start": "node lib/server/app.js",
-    "test": "./node_modules/.bin/mocha -R list"
+    "start": "node server/app.js",
+    "test": ""
   },
   "author": "Luke Schlangen",
   "license": "ISC"
